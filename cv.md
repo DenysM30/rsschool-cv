@@ -20,8 +20,8 @@
   ## *Education*
   * **Master of Law - Law University**
   * **Online Courses - RS School (Front-end/Fullstack training)**
-  * =-----
-  * 
+  * =----- 0000000
+* 
 
 
 
